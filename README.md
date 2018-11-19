@@ -27,3 +27,8 @@ $(function(){
 });
 </script>
 ```
+HTML代码调整
+```
+<input type="text" rel-action="preview" name='image' value="https://www.baidu.com/img/bd_logo1.png" />
+```
+完成
