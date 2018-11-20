@@ -2,6 +2,9 @@
 
 preview-thumb 是一款 jQuery 插件，主要用于在线图片预览。
 
+## 演示
+[DEMO](https://jundayw.github.io/preview-thumb/preview.html)
+
 ## 开发理念
 
 简单、快速。
